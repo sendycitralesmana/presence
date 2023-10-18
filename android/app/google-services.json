@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397360837207",
+    "project_id": "presence-f3e7d",
+    "storage_bucket": "presence-f3e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397360837207:android:d6a92e86978d3f2f226912",
+        "android_client_info": {
+          "package_name": "com.lesmana.presence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEgXIEnhlywLzmLqJjaG84FiMa-4kIsAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
